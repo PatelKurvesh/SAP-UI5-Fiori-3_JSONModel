@@ -3,7 +3,14 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<content>
+					<Label text="Name"></Label>
+					<Input value="{/student/name}"></Input>
+					<Label text="Enrollment No."></Label>
+					<Input value="{/student/no}"></Input>
+					<Label text="Semester"></Label>
+					<Input value="{/student/sem}"></Input>
+				</content>
 			</Page>
 		</pages>
 	</App>
