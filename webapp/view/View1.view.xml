@@ -10,6 +10,8 @@
 					<Input value="{/student/no}"></Input>
 					<Label text="Semester"></Label>
 					<Input value="{/student/sem}"></Input>
+					<Label text="Age"></Label>
+					<Input value="{studAge>/student/sAge}"></Input>
 				</content>
 			</Page>
 		</pages>
