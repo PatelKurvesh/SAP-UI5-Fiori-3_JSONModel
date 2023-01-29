@@ -25,6 +25,7 @@ sap.ui.define([
 			
 			//<<---------------------------Second Way--------------------------------->>
 			// //Second Way to use JSONModel.
+			// //In Second way we need to use loadData for separated json file.
 			// 	//Step 1)Declare the brand new model.
 			// 	var oModel = new sap.ui.model.json.JSONModel();
 			// 	//Step 2)Set the data to the model.
