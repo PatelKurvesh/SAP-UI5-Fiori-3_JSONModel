@@ -11,7 +11,7 @@ In JSONModel we have four way to bind our data model.
 3) this is use for code reusabilty in third way we need to create one function in models.js and in this function we do two steps 
 	(1)Declare the brand new model. (2)Set the data to the model. and return. 
 	after that in controller add dependencies in scaffolding  and than (3)Set data to the App / View / controll level.
-4)define model in manifest.json
+4)define model in manifest.json for a gobal json model.
 
 -->if you have multiple data file than u need to use sPath see models.js file and read comment for understanding.
 	and than u need to define path in controller.
