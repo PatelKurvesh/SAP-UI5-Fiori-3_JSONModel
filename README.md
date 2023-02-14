@@ -1,6 +1,6 @@
 # SAP-UI5-Fiori-3_JSONModel
 
-Two types of Model:-
+Two types of JSON Model:-
 
 1)Named Model. <br>
 2)Default Model.
